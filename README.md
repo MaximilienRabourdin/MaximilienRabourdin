@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maximilien RABOURDIN</h1>
 <h3 align="center">I am a freelance front end developer from France</h3>
 
-- 🔭 I’m currently working [MaxChaty](https://maxchaty.netlify.app/)
-
 - 🌱 I’m currently learning **Three.js**
 
 - ⚡ Fun fact **I love to cook comfort food haha**
